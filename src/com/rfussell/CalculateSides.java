@@ -1,7 +1,6 @@
 package com.rfussell;
 
 /**
- * Assignment2, COMP 268
  * Class: CalculateSides.java
  * Purpose: To calculate missing sides of a triangle and determine if it is a right triangle.
  * @author: Robin Fussell
